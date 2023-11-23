@@ -7,7 +7,7 @@ https://hbw-baseball.shinyapps.io/fubonangels/
 ### **1. 動機**  
 2023在東京巨蛋所舉辦的亞冠賽，熱血球迷Notey為中華隊製作了一套「[中華職棒球員名鑑](https://github.com/hbw0386/fubonangels2023/assets/139471040/314131b4-d9cb-45df-85eb-9a62467987cd "link")」  
 在「**葉子霆**」的介紹頁面提及「*...跟秀秀子搭配打擊率達.536，這次也可以期待這個小迷信！*」
-<img src="https://github.com/hbw0386/fubonangels2023/assets/139471040/314131b4-d9cb-45df-85eb-9a62467987cd" width="600" height="400">  
+<img src="https://github.com/hbw0386/fubonangels2023/assets/139471040/314131b4-d9cb-45df-85eb-9a62467987cd" width="500" height="300">  
 目前找不到官方提供相關和啦啦隊搭配的球員成績，於是讓我想要來製作，  
 實際去比對在秀秀子出席場次，葉子霆是否真的有高達.536的打擊率。  
 
