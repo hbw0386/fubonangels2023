@@ -18,8 +18,20 @@ https://hbw-baseball.shinyapps.io/fubonangels/
 <img src="https://github.com/hbw0386/fubonangels2023/assets/139471040/2b9c4920-84d7-4773-acd3-30882fd8f922" width="400" height="400">  
 有了班表後，可以再去[中華職棒官網](https://www.cpbl.com.tw/box?year=2023&kindCode=A&gameSno=5 "link")去爬當天的比賽表現  
 就能整合出所有Angels出賽場次，打者的累積數據。  
+今年完整60場富邦悍將主場Angels班表我都放在[資料夾](https://github.com/hbw0386/fubonangels2023/tree/main/fg%20angels%E7%8F%AD%E8%A1%A8 "link")裡面。  
 不過今年有7場延賽紀錄，富邦Angels延賽後的出席班表可能會改變  
 本數據統計一律**假設延賽後的班表是相同的**
+
+### **3. 數據呈現**
+從最上方的富邦Angels下拉選單裡，我們可以選擇今年富邦16位Angels  
+其中包括了：卡卡，東東，慈妹，潔米，檸檬，朱朱，秀秀子，丹丹，	
+蓁蓁，Tiffany，Jessy，安娜，維心，沁沁，Kesha，奶昔  
+<img src="https://github.com/hbw0386/fubonangels2023/assets/139471040/c14cf76a-c7e4-49ba-a767-cc9133f50aa6" width="600" height="500">  
+資訊欄位我們可以看到該Angels出場時的相關統計，  
+下方表格則是選手的打擊累積成績(預設以OPS做排名)
+可以點擊各個打擊數據調整排名。
+
+
 
 
 
